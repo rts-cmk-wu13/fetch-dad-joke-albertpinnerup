@@ -11,4 +11,3 @@ fetch("https://icanhazdadjoke.com", {
             <h1>${data.joke}</h1>
         `
     })
-    
